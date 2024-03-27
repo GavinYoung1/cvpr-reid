@@ -1,4 +1,4 @@
-The CVPR paper under mindspore to inference for CC-ReID
+The CVPR2023 paper under mindspore to inference for CC-ReID
 
 ## Supported
 - [x] Inference based on mindspore and GPU
